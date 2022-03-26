@@ -1,2 +1,2 @@
 # Capstone_Project
-Capstone Project for WGU Graduation
+Capstone Project for WGU
